@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:cursive;
+    box-sizing: border-box;
+}
+body{
+    background-color: #dea3acfb;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#contianer{
+    border: 1px solid black;
+    padding: 30px;
+    background-color: #37cf7b52;
+    
+}
+h2{
+    align-content: center;
+}
+.hidden{
+    display: none;
+}
+
+#input-contianer{
+    padding: 5px;
+    margin: 5pc;
+}
+
+#btn-sumbit{
+    border: 1px solid royalblue;
+    padding: 8px;
+}
+#btn-sumbit:hover{
+    border-radius: 8px;
+    background-color: black;
+    color: aquamarine;
+}
+
+p{
+    color: rgb(38, 27, 23);
+}
